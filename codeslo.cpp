@@ -1,3 +1,4 @@
+//Binary Search only....Normal;
 #include<bits/stdc++.h>
 using namespace std;
 int main()
