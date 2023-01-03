@@ -1,4 +1,4 @@
-//Binary Search with Lower Bound
+//Binary Search with Upper Bound
 #include<bits/stdc++.h>
 using namespace std;
 int main()
